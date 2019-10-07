@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi people
+I'm naimur rahman i'm a programmer 
